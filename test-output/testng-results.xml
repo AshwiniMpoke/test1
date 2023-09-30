@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-29T15:18:15 IST" name="Default suite" finished-at="2023-09-29T15:18:17 IST" duration-ms="1586">
+    <groups>
+    </groups>
+    <test started-at="2023-09-29T15:18:15 IST" name="Default test" finished-at="2023-09-29T15:18:17 IST" duration-ms="1586">
+      <class name="Extend_report.test1">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Extend_report.test1@3e44f2a5]" started-at="2023-09-29T15:18:15 IST" name="beforeTest" finished-at="2023-09-29T15:18:16 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="f1()[pri:0, instance:Extend_report.test1@3e44f2a5]" started-at="2023-09-29T15:18:16 IST" name="f1" finished-at="2023-09-29T15:18:16 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method signature="f2()[pri:0, instance:Extend_report.test1@3e44f2a5]" started-at="2023-09-29T15:18:16 IST" name="f2" finished-at="2023-09-29T15:18:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method signature="f3()[pri:0, instance:Extend_report.test1@3e44f2a5]" started-at="2023-09-29T15:18:16 IST" name="f3" finished-at="2023-09-29T15:18:16 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f3 -->
+        <test-method signature="f4()[pri:0, instance:Extend_report.test1@3e44f2a5]" started-at="2023-09-29T15:18:16 IST" name="f4" finished-at="2023-09-29T15:18:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f4 -->
+        <test-method signature="f5()[pri:0, instance:Extend_report.test1@3e44f2a5]" started-at="2023-09-29T15:18:16 IST" name="f5" finished-at="2023-09-29T15:18:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f5 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Extend_report.test1@3e44f2a5]" started-at="2023-09-29T15:18:16 IST" name="afterTest" finished-at="2023-09-29T15:18:17 IST" duration-ms="1093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Extend_report.test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
